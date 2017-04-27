@@ -1,6 +1,0 @@
-C:\Users\elimo\OneDrive\Documents\GitHub\vs-console\GitConsoleProjTest\bin\Debug\GitConsoleProjTest.exe.config
-C:\Users\elimo\OneDrive\Documents\GitHub\vs-console\GitConsoleProjTest\bin\Debug\GitConsoleProjTest.exe
-C:\Users\elimo\OneDrive\Documents\GitHub\vs-console\GitConsoleProjTest\bin\Debug\GitConsoleProjTest.pdb
-C:\Users\elimo\OneDrive\Documents\GitHub\vs-console\GitConsoleProjTest\obj\Debug\GitConsoleProjTest.csprojResolveAssemblyReference.cache
-C:\Users\elimo\OneDrive\Documents\GitHub\vs-console\GitConsoleProjTest\obj\Debug\GitConsoleProjTest.exe
-C:\Users\elimo\OneDrive\Documents\GitHub\vs-console\GitConsoleProjTest\obj\Debug\GitConsoleProjTest.pdb

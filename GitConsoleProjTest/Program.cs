@@ -13,8 +13,6 @@ namespace GitConsoleProjTest
             Console.WriteLine("Hello Git!");
             Console.WriteLine("I am attempting to add a VS solution to a repository");
 
-            Console.WriteLine("Good news - it worked.");
-
             Console.ReadLine();
         }
     }
