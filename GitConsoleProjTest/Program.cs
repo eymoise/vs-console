@@ -13,6 +13,8 @@ namespace GitConsoleProjTest
             Console.WriteLine("Hello Git!");
             Console.WriteLine("I am attempting to add a VS solution to a repository");
 
+            Console.WriteLine("Accidently added unnecessary files, so reverted commit. Now attempting to commit again.");
+
             Console.ReadLine();
         }
     }
