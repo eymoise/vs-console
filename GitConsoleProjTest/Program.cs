@@ -11,9 +11,10 @@ namespace GitConsoleProjTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Git!");
-            Console.WriteLine("I am attempting to add a VS solution to a repository");
 
-            Console.WriteLine("Accidently added unnecessary files, so reverted commit. Now attempting to commit again.");
+            Dice dice = new Dice();
+
+            Console.WriteLine($"Let's roll the dice. Result is {dice.Roll()}");
 
             Console.ReadLine();
         }
